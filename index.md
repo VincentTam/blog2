@@ -46,3 +46,7 @@ We need to clean up the themes, make theme usage guides with theme-specific mark
 ## I want some better theme!
 
 I'll search for it!
+
+## Detect changes in my source files!
+
+I think the corresponding `index.html` file should be updated with the source markdown file as long as the `-w` option is passed to Jekyll.
