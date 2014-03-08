@@ -1,0 +1,13 @@
+README
+====
+
+The `master` branch represents the program, while the `gh-pages`
+branch should be used for hosting website.  Inspired by
+[Evsseny's article](http://evsseny.appspot.com/?p=63001),
+I try to do it once myself.
+
+This contains some simple functions written using recursion.  I know
+that it's better to include an equivalent function written using
+merely loops.  I'll try to do so if I've time.
+
+<!-- vim:set tw=70 wrap: -->
