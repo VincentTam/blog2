@@ -1,6 +1,8 @@
 README
 ====
 
-The repo contains some simple functions written using recursion.  I know that it's better to include an equivalent function written using merely loops.  I'll try to do so if I've time.
+The repo contains some simple functions written using recursion.  I
+know that it's better to include an equivalent function written using
+merely loops.  I'll try to do so if I've time.
 
-<!-- vim:set tw=70 wrap -->
+<!-- vim:set tw=70 wrap: -->
