@@ -4,9 +4,9 @@ title: Mon deuxième blog
 ---
 {% include JB/setup %}
 
-## Posts récents
+## Articles récents
 
-Voici une liste des posts.
+Voici une liste des articles.
 
 <ul class="posts">
   {% for post in site.posts %}
