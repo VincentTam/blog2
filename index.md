@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mon deuxième blog
+tagline: Les notes de français
 ---
 {% include JB/setup %}
 
