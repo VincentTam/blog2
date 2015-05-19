@@ -24,43 +24,43 @@ Usage:
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% assign m = post.date | date: "%-m" %}
     {% capture this_month %}{% case m %}
-      {% when '1' %}Janvier
-      {% when '2' %}Février
-      {% when '3' %}Mars
-      {% when '4' %}Avril
-      {% when '5' %}Mai
-      {% when '6' %}Juin
-      {% when '7' %}Juillet
-      {% when '8' %}Août
-      {% when '9' %}Septembre
-      {% when '10' %}Octobre
-      {% when '11' %}Novembre
-      {% when '12' %}Décembre
+      {% when '1' %}janvier
+      {% when '2' %}février
+      {% when '3' %}mars
+      {% when '4' %}avril
+      {% when '5' %}mai
+      {% when '6' %}juin
+      {% when '7' %}juillet
+      {% when '8' %}août
+      {% when '9' %}septembre
+      {% when '10' %}octobre
+      {% when '11' %}novembre
+      {% when '12' %}décembre
     {% endcase %}{% endcapture %}
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
     {% assign m0 = post.previous.date | date: "%-m" %}
     {% capture next_month %}{% case m0 %}
-      {% when '1' %}Janvier
-      {% when '2' %}Février
-      {% when '3' %}Mars
-      {% when '4' %}Avril
-      {% when '5' %}Mai
-      {% when '6' %}Juin
-      {% when '7' %}Juillet
-      {% when '8' %}Août
-      {% when '9' %}Septembre
-      {% when '10' %}Octobre
-      {% when '11' %}Novembre
-      {% when '12' %}Décembre
+      {% when '1' %}janvier
+      {% when '2' %}février
+      {% when '3' %}mars
+      {% when '4' %}avril
+      {% when '5' %}mai
+      {% when '6' %}juin
+      {% when '7' %}juillet
+      {% when '8' %}août
+      {% when '9' %}septembre
+      {% when '10' %}octobre
+      {% when '11' %}novembre
+      {% when '12' %}décembre
     {% endcase %}{% endcapture %}
   
     {% if forloop.first %}
-      <h2>{{this_year}}</h2>
-      <h3>{{this_month}}</h3>
+      <h2>{{this_year | capitalize}}</h2>
+      <h3>{{this_month | capitalize}}</h3>
       <ul>
     {% endif %}
   
-    <li><span>{{ post.date | localize: "%e %B %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date: "%-d" }} {{this_month}} {{this_year}}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   
     {% if forloop.last %}
       </ul>
