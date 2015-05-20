@@ -18,8 +18,8 @@ e.g. Joseph s'est marié avec Julie.
 
 ### Changer
 
-- Faux: Je changerai *mon* portable.
-- Vrai: Je changerai *de* portable.
+- Faux : Je changerai *mon* portable.
+- Vrai : Je changerai *de* portable.
 
 Nom
 ---

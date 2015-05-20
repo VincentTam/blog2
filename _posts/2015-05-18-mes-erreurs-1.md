@@ -14,13 +14,15 @@ Articles
 
 On utilise « jouer de » pour les instruments de musique.
 
-- Faux: J'ai joué *de* la flûte ce matin.
-- Vrai: J'ai joué *à* la flûte ce matin.
+- Faux : J'ai joué *de* la flûte ce matin.
+- Vrai : J'ai joué *à* la flûte ce matin.
 
 ### Faire de
 
-- Faux: Elle faisait souvent *le* calcul mental quand elle était petite.
-- Vrai: Elle faisait souvent *du* calcul mental quand elle était petite.
+- Faux : Elle faisait souvent *le* calcul mental quand elle était
+    petite.
+- Vrai : Elle faisait souvent *du* calcul mental quand elle était
+    petite.
 
 Verbe
 ---
@@ -36,18 +38,18 @@ Noms
 
 ### Enfant unique
 
-- Faux: Tu es *enfant* unique.
-- Vrai: Tu es *fils/fille* unique.
+- Faux : Tu es *enfant* unique.
+- Vrai : Tu es *fils/fille* unique.
 
 ### License en qch
 
-- Faux: Vous faites un *majeur* en psycho.
-- Vrai: Vous faites une *license* en psycho.
+- Faux : Vous faites un *majeur* en psycho.
+- Vrai : Vous faites une *license* en psycho.
 
 ### Région/Pays
 
-- Faux: Le Rhône-Alps est un *place* pittoresque.
-- Vrai: Le Rhône-Alps est une *région* pittoresque.
+- Faux : Le Rhône-Alps est un *place* pittoresque.
+- Vrai : Le Rhône-Alps est une *région* pittoresque.
 
 ### Dictionnaire
 
@@ -58,5 +60,5 @@ Préposition
 
 ### Dans la livre
 
-- Faux: J'ai lu quelques phrases *sur* le livre.
-- Vrai: J'ai lu quelques phrases *dans* le livre.
+- Faux : J'ai lu quelques phrases *sur* le livre.
+- Vrai : J'ai lu quelques phrases *dans* le livre.
