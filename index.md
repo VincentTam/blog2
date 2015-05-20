@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Mon deuxième blog
-tagline: Les notes de français
+title: Mon 2ème blog
+tagline: Mes petites notes de français
 ---
 {% include JB/setup %}
+
+C'est difiicile de chercher des mots dans un cahier ou dans un livre.
+Heureusement, c'est facile de les rechercher sur Google.  Alors, je
+fais ce blog-ci.
 
 ## Articles récents
 
