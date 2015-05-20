@@ -42,7 +42,17 @@
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
-        </div>
+
+	  <!-- my custom google search -->
+	  <form action="https://google.com/search" method="get">
+	  <fieldset role="search">
+	  <input name="sitesearch" value="https://vincenttam.github.io/blog2"
+	  type="hidden">
+	  <input class="search" name="q" results="0" placeholder="Search"
+	  type="text">
+	  </fieldset>
+	  </form>
+	</div>
       </div>
     </div>
 
