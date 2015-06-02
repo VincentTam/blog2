@@ -25,8 +25,8 @@ Verbe
 
 - Faux: J'ai fini tôt mes devoirs cet après-midi pour *sortir et pour
     jouer* au foot.
-- Vrai: J'ai fini tôt mes devoirs cet après-midi pour sortir jouer au
-    foot.
+- Vrai: J'ai fini tôt mes devoirs cet après-midi pour *sortir jouer*
+    au foot.
 
 Temps
 ---
