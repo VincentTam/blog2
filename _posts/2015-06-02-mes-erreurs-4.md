@@ -3,7 +3,7 @@ layout: post
 title: "Mes erreurs (4)"
 description: "une petite liste d'erreurs"
 category: erreur
-tags: [Nom, Temps, Verbe]
+tags: [nom, temps, verbe]
 ---
 {% include JB/setup %}
 
