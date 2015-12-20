@@ -22,6 +22,9 @@ On peut continuer à utiliser cette langue, et sa capacité du français
 deviendra mieux.
 
 ---
-[^multi]: http://polyglot.tw/multilingual/index.php?page=index
+[^multi]:
+    D'après [Sicuanga Multilingual League][multi], personne ne peut
+    « apprendre » une laugue étrangère.
 
+[multi]: http://polyglot.tw/multilingual/index.php?page=index
 [FLEvidéo]: http://www.flevideo.com/
