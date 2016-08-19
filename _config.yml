@@ -26,6 +26,8 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : https://vincenttam.github.io/blog2
+host : 0.0.0.0
+port : 4001
 
 gems: ["jekyll-sitemap"]
 
